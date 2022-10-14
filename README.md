@@ -18,14 +18,14 @@
 
    * 更改文件下载位置至screenshots文件夹
 
-     ![image-20221014164604429](D:\typora_image\image-20221014164604429.png)
+     ![image-20221014164604429](readmeImg\image-20221014164604429.png)
 
 
    * 配置自动下载
 
-     ![image-20221014165000881](D:\typora_image\image-20221014165000881.png)
+     ![image-20221014165000881](readmeImg\image-20221014165000881.png)
 
-     ![image-20221014165016393](D:\typora_image\image-20221014165016393.png)
+     ![image-20221014165016393](readmeImg\image-20221014165016393.png)
 
 
 ##	运行
